@@ -1,2 +1,2 @@
 # Curso-NumPy-Pandas-Matplotlib
-Prácticas de del curso
+Prácticas del curso Python para análisis de datos
