@@ -1,3 +1,4 @@
-# Curso-NumPy-Pandas-Matplotlib
+# curso-numPy-pandas-matplotlib
 
-Prácticas del curso Python para análisis de datos
+**Descargá el dataset y guardalo en la carpeta raiz**
+*https://www.kaggle.com/datasets/tunguz/online-retail*
