@@ -2,3 +2,5 @@
 venv/
 __pycache__/
 *.pyc
+Online_Retail.csv
+Online_Retail.csv:Zone.Identifier
